@@ -23,7 +23,7 @@ Backend Developer • Java Enthusiast • Problem Solver
 - Database performance optimization  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranshu-patel-gec-ldce-it-dte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranshu2853@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranshu-patel-gec-ldce-it-dte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranshu2853@gmail.com) 
 
 💻 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,js,react,angular,html,css,bootstrap,tailwind&theme=dark" /> </p>
