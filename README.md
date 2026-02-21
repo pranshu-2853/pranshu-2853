@@ -29,12 +29,17 @@ Backend Developer • Java Enthusiast • Problem Solver
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,js,react,angular,html,css,bootstrap,tailwind&theme=dark" /> </p>
 
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pranshu-Patel&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"/> <br/> <img src="https://nirzak-streak-stats.vercel.app/?user=Pranshu-Patel&theme=nightowl&hide_border=false"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu-Patel&theme=nightowl&hide_border=false&layout=compact"/> </p>
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=pranshu-2853&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com?user=pranshu-2853&theme=nightowl&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu-2853&theme=nightowl&hide_border=false&layout=compact)
 
 
 ⚡ GitHub Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranshu-Patel&theme=tokyo-night"/> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranshu-2853&theme=tokyo-night"/> </p>
 
 
 ### ✍️ Random Dev Quote
