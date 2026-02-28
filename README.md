@@ -1,26 +1,29 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,100:2cb67d&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F5AF0&size=28&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+Enthusiast;Java+Problem+Solver;Building+Scalable+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F5AF0&size=28&center=true&vCenter=true&width=600&lines=Backend+Engineer;Spring+Boot;Java+Problem+Solver;Building+Scalable+Systems"/>
 </p>
 
 # 💫 About Me
 
-Backend Developer • Java Enthusiast • Problem Solver  
+Backend Engineer focused on building secure, scalable REST APIs using Spring Boot.
 
 ## 🔭 Currently Working On
-- Building Spring Boot REST APIs  
+- Designing secure REST backends  
 - Strengthening backend fundamentals & architecture  
 - Practicing Data Structures & Algorithms (Striver A2Z)
 
 ## 🚧 Featured Project
 
-### 🔹 Blog Platform (Spring Boot + Security)
-- REST APIs with proper HTTP status codes
-- JWT Authentication & Role-based access
-- DTO mapping & validation
-- PostgreSQL + Docker setup
-- Global exception handling
+### 🔹 Secure Engineer Management API
+  Spring Boot | JWT | PostgreSQL | Docker
+
+- JWT-based stateless authentication & role-based access (USER / ADMIN)
+- Method-level security using @PreAuthorize with custom 401/403 handling
+- Pagination, sorting & dynamic filtering (JPA Specifications)
+- DTO-based API design with REST-compliant responses
+- Clean layered architecture with centralized exception handling
+- Transaction management & unit testing (JUnit 5, Mockito)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-Expert-6DB33F?style=for-the-badge&logo=springboot"/>
@@ -28,17 +31,14 @@ Backend Developer • Java Enthusiast • Problem Solver
   <img src="https://img.shields.io/badge/JWT-Security-FC4C02?style=for-the-badge"/>
 </p>
 
-## 👯 Looking to Collaborate On
-- Backend projects using Spring Boot + PostgreSQL  
-
-## 🤝 Looking for Help With
-- Writing clean, scalable, production-ready backend code  
-- Improving project structure & best practices  
+## 🤝 Open to Collaboration
+- Backend system design 
+- Scalable REST architecture 
 
 ## 🌱 Currently Learning
-- Spring Security & JWT authentication  
-- Testing strategies for backend services  
-- Database performance optimization  
+- High-concurrency backend design
+- Database consistency & locking strategies
+- Advanced transaction management  
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranshu-patel-gec-ldce-it-dte)
