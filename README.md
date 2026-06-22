@@ -5,25 +5,34 @@
 </p>
 
 # 💫 About Me
-
-Backend Engineer focused on building secure, scalable REST APIs using Spring Boot.
+Backend engineer building production-grade systems with Spring Boot — 
+focused on concurrency control, secure API design, and clean architecture.
 
 ## 🔭 Currently Working On
-- Designing secure REST backends  
-- Strengthening backend fundamentals & architecture  
-- Practicing Data Structures & Algorithms (Striver A2Z)
+- Circuit breakers & idempotency keys (Resilience4j)
+- Optimistic vs pessimistic locking comparison
+- Dockerized deployment & final documentation
 
-## 🚧 Featured Project
+## 🚧 Featured Projects
+
+### 🔹 Ticket Booking System *(Primary)*
+Spring Boot | PostgreSQL | Redis | Docker | Flyway | JUnit 5
+
+- Pessimistic locking (PESSIMISTIC_WRITE) to guarantee zero double-bookings
+- Redis soft lock layer (SET NX EX 300) as UX optimization over DB lock
+- Validated with 8-thread concurrency test — ExecutorService + CountDownLatch
+- Idempotency key enforcement on critical booking endpoints
+- JWT access + refresh token auth with single active session per user
+- Flyway schema migrations + Swagger/OpenAPI documentation
 
 ### 🔹 Secure Engineer Management API
-  Spring Boot | JWT | PostgreSQL | Docker
+Spring Boot | JWT | PostgreSQL | Docker | JUnit 5 | Mockito
 
-- JWT-based stateless authentication & role-based access (USER / ADMIN)
-- Method-level security using @PreAuthorize with custom 401/403 handling
-- Pagination, sorting & dynamic filtering (JPA Specifications)
-- DTO-based API design with REST-compliant responses
-- Clean layered architecture with centralized exception handling
-- Transaction management & unit testing (JUnit 5, Mockito)
+- JWT-based auth + RBAC (@PreAuthorize) with custom 401/403 handling
+- 90%+ service-layer test coverage — JUnit 5 + Mockito
+- Dynamic filtering via JPA Specifications, pagination & sorting
+- DTO layer, global exception handling, layered architecture
+- Deployed on Render with Neon PostgreSQL
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-Expert-6DB33F?style=for-the-badge&logo=springboot"/>
@@ -32,13 +41,13 @@ Backend Engineer focused on building secure, scalable REST APIs using Spring Boo
 </p>
 
 ## 🤝 Open to Collaboration
-- Backend system design 
-- Scalable REST architecture 
+- Backend system design
+- Scalable REST & concurrency architecture
 
 ## 🌱 Currently Learning
-- High-concurrency backend design
-- Database consistency & locking strategies
-- Advanced transaction management  
+- Resilience patterns (circuit breakers, retry, fallback)
+- Redis as a distributed caching and locking layer
+- Production deployment & monitoring patterns 
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranshu-patel-gec-ldce-it-dte)
